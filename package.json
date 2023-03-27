@@ -1,6 +1,7 @@
 {
   "name": "js",
   "version": "1.0.0",
+  "description": "",
   "main": "script.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/paras-786/portfolio.git"
   },
-  "author": "Paras",
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/paras-786/portfolio/issues"
@@ -17,6 +18,5 @@
   "homepage": "https://github.com/paras-786/portfolio#readme",
   "dependencies": {
     "express": "^4.18.2"
-  },
-  "description": ""
+  }
 }
